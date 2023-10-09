@@ -1,2 +1,2 @@
-# AI-Prompt-Examples
+# Examples
 Provide examples of different prompts
